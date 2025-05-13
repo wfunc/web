@@ -3,7 +3,7 @@ package httptest
 import (
 	"testing"
 
-	"github.com/codingeasygo/util/xmap"
+	"github.com/wfunc/util/xmap"
 	"github.com/wfunc/web"
 )
 

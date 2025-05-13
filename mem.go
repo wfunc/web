@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/codingeasygo/util/uuid"
-	"github.com/codingeasygo/util/xmap"
+	"github.com/wfunc/util/uuid"
+	"github.com/wfunc/util/xmap"
 )
 
 // MemSession is memory session implement

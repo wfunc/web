@@ -13,8 +13,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/codingeasygo/util/converter"
-	"github.com/codingeasygo/util/xio"
+	"github.com/wfunc/util/converter"
+	"github.com/wfunc/util/xio"
 )
 
 // MultipartFile is recevied file result

@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/codingeasygo/util/xhttp"
+	"github.com/wfunc/util/xhttp"
 )
 
 func TestDefaultSessionMux(t *testing.T) {

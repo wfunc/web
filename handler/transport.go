@@ -6,8 +6,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/codingeasygo/util/xnet"
-	"github.com/codingeasygo/util/xprop"
+	"github.com/wfunc/util/xnet"
+	"github.com/wfunc/util/xprop"
 	"github.com/wfunc/web"
 	"golang.org/x/net/websocket"
 )

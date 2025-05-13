@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/codingeasygo/util/xmap"
-	"github.com/codingeasygo/util/xos"
+	"github.com/wfunc/util/xmap"
+	"github.com/wfunc/util/xos"
 	"github.com/wfunc/web/httptest"
 
 	"github.com/wfunc/web"

@@ -10,10 +10,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/codingeasygo/util/attrscan"
-	"github.com/codingeasygo/util/attrvalid"
-	"github.com/codingeasygo/util/monitor"
-	"github.com/codingeasygo/util/xmap"
+	"github.com/wfunc/util/attrscan"
+	"github.com/wfunc/util/attrvalid"
+	"github.com/wfunc/util/monitor"
+	"github.com/wfunc/util/xmap"
 )
 
 // Result is http handler result

@@ -4,7 +4,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/codingeasygo/util/xhttp"
+	"github.com/wfunc/util/xhttp"
 	"github.com/wfunc/web"
 )
 

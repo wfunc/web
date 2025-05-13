@@ -1,8 +1,8 @@
 module github.com/wfunc/web
 
-go 1.18
+go 1.24.1
 
 require (
-	github.com/codingeasygo/util v0.0.0-20230905092720-cb8130b9031f
-	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
+	github.com/wfunc/util v0.0.0-20241214111718-546afdabf3c8
+	golang.org/x/net v0.40.0
 )

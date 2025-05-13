@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/codingeasygo/util/xmap"
+	"github.com/wfunc/util/xmap"
 )
 
 // DefaultSession is web memory sesson implement

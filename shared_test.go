@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/codingeasygo/util/xhttp"
+	"github.com/wfunc/util/xhttp"
 )
 
 func TestShared(t *testing.T) {

@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/codingeasygo/util/converter"
-	"github.com/codingeasygo/util/xhttp"
-	"github.com/codingeasygo/util/xmap"
+	"github.com/wfunc/util/converter"
+	"github.com/wfunc/util/xhttp"
+	"github.com/wfunc/util/xmap"
 )
 
 type CSrv struct {

@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 func main() {

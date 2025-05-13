@@ -8,7 +8,7 @@ import (
 
 	"github.com/codingeasygo/util/xnet"
 	"github.com/codingeasygo/util/xprop"
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 	"golang.org/x/net/websocket"
 )
 

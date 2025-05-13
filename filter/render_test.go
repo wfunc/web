@@ -10,9 +10,9 @@ import (
 
 	"github.com/codingeasygo/util/xmap"
 	"github.com/codingeasygo/util/xos"
-	"github.com/codingeasygo/web/httptest"
+	"github.com/wfunc/web/httptest"
 
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 func assertGet(ts *httptest.Server, expect string, trim bool, f string, args ...interface{}) {

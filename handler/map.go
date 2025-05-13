@@ -1,6 +1,6 @@
 package handler
 
-import "github.com/codingeasygo/web"
+import "github.com/wfunc/web"
 
 type Map map[string]interface{}
 

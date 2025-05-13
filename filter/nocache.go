@@ -3,7 +3,7 @@ package filter
 import (
 	"time"
 
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 // NoCacheF will set the not cache to reponse

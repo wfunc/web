@@ -3,7 +3,7 @@ package filter
 import (
 	"net/url"
 
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 func ParseQueryF(s *web.Session) web.Result {

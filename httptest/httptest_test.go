@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/codingeasygo/util/xmap"
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 func TestServer(t *testing.T) {

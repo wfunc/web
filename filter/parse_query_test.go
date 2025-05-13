@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/codingeasygo/util/xhttp"
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 func testRecv(hs *web.Session) web.Result {

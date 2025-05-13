@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/codingeasygo/util/xhttp"
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 func TestFavicon(t *testing.T) {

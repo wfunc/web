@@ -1,4 +1,4 @@
-module github.com/codingeasygo/web
+module github.com/wfunc/web
 
 go 1.18
 

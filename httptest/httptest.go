@@ -10,7 +10,7 @@ import (
 
 	"github.com/codingeasygo/util/xhttp"
 	"github.com/codingeasygo/util/xmap"
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 // Server is httptest server

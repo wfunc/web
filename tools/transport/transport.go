@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/codingeasygo/web/handler"
+	"github.com/wfunc/web/handler"
 )
 
 func main() {

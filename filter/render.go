@@ -15,7 +15,7 @@ import (
 
 	"github.com/codingeasygo/util/converter"
 	"github.com/codingeasygo/util/xhttp"
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 var regExternLine = regexp.MustCompile(`^<!--[\s]*R:.*-->$`)

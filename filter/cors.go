@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 type CORS struct {

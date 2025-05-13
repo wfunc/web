@@ -3,7 +3,7 @@ package filter
 import (
 	"net/http"
 
-	"github.com/codingeasygo/web"
+	"github.com/wfunc/web"
 )
 
 type FaviconH string

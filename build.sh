@@ -13,8 +13,8 @@ echo "Running Test"
 pkgs="\
 "
 pkgs="\
-  github.com/codingeasygo/web\
-  github.com/codingeasygo/web/filter\
+  github.com/wfunc/web\
+  github.com/wfunc/web/filter\
 "
 echo "mode: set" >a.out
 for p in $pkgs; do

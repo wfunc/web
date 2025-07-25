@@ -33,7 +33,8 @@ func (c *CORS) exec(w http.ResponseWriter, r *http.Request) web.Result {
 		if v, ok := c.Sites["@"]; ok && v > 0 {
 			return found(origin)
 		} else if v, ok := c.Sites["*"]; ok && v > 0 {
-			return found("*")
+			// return found("*")
+			return found(origin)
 		} else if v, ok := c.Sites[origin]; ok && v > 0 {
 			return found(origin)
 		} else {
